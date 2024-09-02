@@ -14,7 +14,9 @@ import mlflow.sklearn
 # We need to import whatever library which we are using
 
 import logging
-
+import dagshub
+dagshub.init(repo_owner='sahil_bhandari', repo_name='mlFlow_demo', mlflow=True)
+mlflow.set_tracking_uri("https://dagshub.com/sahil_bhandari/mlFlow_demo.mlflow")
 # Creating the log
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
