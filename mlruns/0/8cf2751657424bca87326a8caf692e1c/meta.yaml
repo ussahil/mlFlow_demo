@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Other/code/Projects/DagsHub/mlflow_demo/mlruns/0/8cf2751657424bca87326a8caf692e1c/artifacts
+deleted_time: 1725238241929
+end_time: 1725237052397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8cf2751657424bca87326a8caf692e1c
+run_name: merciful-kite-363
+run_uuid: 8cf2751657424bca87326a8caf692e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725237052382
+status: 4
+tags: []
+user_id: retur

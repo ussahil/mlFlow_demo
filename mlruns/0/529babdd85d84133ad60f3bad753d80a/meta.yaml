@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Other/code/Projects/DagsHub/mlflow_demo/mlruns/0/529babdd85d84133ad60f3bad753d80a/artifacts
+end_time: 1725237140526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529babdd85d84133ad60f3bad753d80a
+run_name: merciful-bee-156
+run_uuid: 529babdd85d84133ad60f3bad753d80a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725237136268
+status: 3
+tags: []
+user_id: retur

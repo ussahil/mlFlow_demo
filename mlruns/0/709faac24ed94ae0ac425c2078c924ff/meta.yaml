@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Other/code/Projects/DagsHub/mlflow_demo/mlruns/0/709faac24ed94ae0ac425c2078c924ff/artifacts
+end_time: 1725237542762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 709faac24ed94ae0ac425c2078c924ff
+run_name: colorful-ox-419
+run_uuid: 709faac24ed94ae0ac425c2078c924ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725237538956
+status: 3
+tags: []
+user_id: retur
